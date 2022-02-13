@@ -4,3 +4,4 @@ In this repo, I employ a mean field (MF) approximation to analyze a model for po
 <!-- This project was done in MATHEMATICA and R. 
  -->
  
+ 
